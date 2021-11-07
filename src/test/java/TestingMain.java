@@ -25,6 +25,6 @@ public class TestingMain {
 
     @Test
     public void thisTestWillFail() {
-        fail();
+        fail("This test will Fail");
     }
 }
