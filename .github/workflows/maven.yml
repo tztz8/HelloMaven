@@ -23,4 +23,4 @@ jobs:
         distribution: 'adopt'
         cache: maven
     - name: Run Test
-      run: tree
+      uses: Maes95/maven-action@1.0.0
