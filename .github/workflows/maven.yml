@@ -10,7 +10,7 @@ on:
     branches: [ main ]
 
 jobs:
-  build:
+  Test:
 
     runs-on: ubuntu-latest
 
@@ -23,4 +23,4 @@ jobs:
         distribution: 'adopt'
         cache: maven
     - name: Run Test
-      run: mvn -B test --file pon.xml
+      run: tree
