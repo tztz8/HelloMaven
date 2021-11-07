@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisProjectProfileManager">
+    <option name="PROJECT_PROFILE" />
+    <option name="USE_PROJECT_LEVEL_SETTINGS" value="false" />
+    <list size="0" />
+  </component>
+  <component name="CheckStyle-IDEA">
+    <option name="configuration">
+      <map>
+        <entry key="active-configuration" value="LOCAL_FILE:C:/dev/checkstyle/java/ewu/cscd212/ewu-cscd212.xml:EWU CSCD212" />
+        <entry key="checkstyle-version" value="8.43" />
+        <entry key="copy-libs" value="true" />
+        <entry key="location-0" value="BUNDLED:(bundled):Sun Checks" />
+        <entry key="location-1" value="BUNDLED:(bundled):Google Checks" />
+        <entry key="location-2" value="LOCAL_FILE:C:/dev/checkstyle/java/ewu/cscd212/ewu-cscd212.xml:EWU CSCD212" />
+        <entry key="location-3" value="LOCAL_FILE:C:/dev/checkstyle/java/uw/cse373/checkstyle.xml:UW CSE 373 Check" />
+        <entry key="property-3.config_loc" value="" />
+        <entry key="scan-before-checkin" value="false" />
+        <entry key="scanscope" value="JavaOnlyWithTests" />
+        <entry key="suppress-errors" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="SSH_CONFIG" />
+    <option name="myConnectionId" value="tztz8@10.0.0.5:22 key" />
+  </component>
+  <component name="SuppressionsComponent">
+    <option name="suppComments" value="[]" />
+  </component>
+</project>
