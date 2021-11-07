@@ -23,7 +23,7 @@ jobs:
         distribution: 'adopt'
         cache: maven
     - name: Run Test
-      run: mvn test -D TestingMain
+      run: mvn test -D TestingMain && tree
     - name: Publish Test Report
       uses: mikepenz/action-junit-report@v2
       with:
